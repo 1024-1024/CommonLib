@@ -204,7 +204,7 @@ public final class KLog {
         StringBuilder sb = new StringBuilder();
         sb.append("\n");
         for (String trace : traceString) {
-            if (trace.contains("at com.socks.library.KLog")) {
+            if (trace.contains("at com.commonlog.K.KLog")) {
                 continue;
             }
             sb.append(trace).append("\n");
