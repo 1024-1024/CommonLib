@@ -1,1 +1,1 @@
-include ':app', ':clog', ':dblib'
+include ':app', ':clog', ':dblib', ':designpattern'

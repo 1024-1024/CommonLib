@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/clog" />
             <option value="$PROJECT_DIR$/dblib" />
+            <option value="$PROJECT_DIR$/designpattern" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

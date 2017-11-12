@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/clog/clog.iml" filepath="$PROJECT_DIR$/clog/clog.iml" />
       <module fileurl="file://$PROJECT_DIR$/dblib/dblib.iml" filepath="$PROJECT_DIR$/dblib/dblib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
     </modules>
   </component>
 </project>
